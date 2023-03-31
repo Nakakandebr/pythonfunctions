@@ -14,3 +14,7 @@ def remainder(f,l):
     answer4=f%l
     return answer4
 
+def divide(d,c):
+    answer5=d/c
+    return answer5
+
