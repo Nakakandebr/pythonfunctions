@@ -18,3 +18,9 @@ def divide(d,c):
     answer5=d/c
     return answer5
 
+
+    
+def yearOfbirth (name,age):
+    year =2023-age
+    print(f"Hello {name},you were born in {year}")
+
